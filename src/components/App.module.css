@@ -1,0 +1,20 @@
+.section {
+  width: 400px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.secondTitle {
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+  color: rgb(138, 49, 49);
+  font-size: 28px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
